@@ -1,0 +1,12 @@
+.card{
+    background-color:#E1EBEE;
+}
+
+.card:hover{
+box-shadow: 0 0 15px black;
+}
+
+body{
+    background-color: rgb(216, 91, 91);
+    text-align: center;
+}
